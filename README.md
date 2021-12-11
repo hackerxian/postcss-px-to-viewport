@@ -1,4 +1,4 @@
-# postcss-px-to-viewport
+# postcss-px-to-viewport-hho
 [![NPM version](https://badge.fury.io/js/postcss-px-to-viewport.svg)](http://badge.fury.io/js/postcss-px-to-viewport)
 
 English | [中文](README_CN.md) 
@@ -74,11 +74,11 @@ If your project involves a fixed width, this script will help to convert pixels 
 ### Installation
 Add via npm
 ```
-$ npm install postcss-px-to-viewport --save-dev
+$ npm install postcss-px-to-viewport-hho --save-dev
 ```
 or yarn
 ```
-$ yarn add -D postcss-px-to-viewport
+$ yarn add -D postcss-px-to-viewport-hho
 ```
 
 ### Usage
